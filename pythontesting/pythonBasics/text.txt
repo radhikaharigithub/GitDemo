@@ -1,0 +1,5 @@
+ant
+ball
+cat
+dog
+elephant

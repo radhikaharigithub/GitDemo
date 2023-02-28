@@ -1,0 +1,40 @@
+2023-01-26 16:22:10,731 :INFO : pytestsDemo.test_logging :Information
+2023-01-26 16:22:10,731 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2023-01-26 16:22:10,732 :ERROR : pytestsDemo.test_logging :A major error has happened
+2023-01-26 16:22:10,732 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2023-01-26 16:52:09,716 :INFO : pytestsDemo.baseClass :Radhika
+2023-01-26 16:52:09,717 :INFO : pytestsDemo.baseClass :HG
+2023-01-26 16:56:56,578 :INFO : test_editprofile :Radhika
+2023-01-26 16:56:56,578 :INFO : test_editprofile :HG
+2023-01-26 16:59:44,445 :INFO : test_editprofile :Radhika
+2023-01-26 16:59:44,445 :INFO : test_editprofile :HG
+2023-01-26 16:59:44,452 :INFO : pytestsDemo.test_logging :Information
+2023-01-26 16:59:44,452 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2023-01-26 16:59:44,452 :ERROR : pytestsDemo.test_logging :A major error has happened
+2023-01-26 16:59:44,452 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2023-01-26 17:00:43,597 :INFO : test_editprofile :Radhika
+2023-01-26 17:00:43,597 :INFO : test_editprofile :HG
+2023-01-26 17:00:43,610 :INFO : pytestsDemo.test_logging :Information
+2023-01-26 17:00:43,610 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2023-01-26 17:00:43,610 :ERROR : pytestsDemo.test_logging :A major error has happened
+2023-01-26 17:00:43,610 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2023-01-26 17:05:03,965 :INFO : test_editprofile :Radhika
+2023-01-26 17:05:03,966 :INFO : test_editprofile :HG
+2023-01-26 17:05:38,602 :INFO : test_editprofile :Radhika
+2023-01-26 17:05:38,602 :INFO : test_editprofile :HG
+2023-01-26 17:05:38,610 :INFO : pytestsDemo.test_logging :Information
+2023-01-26 17:05:38,610 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2023-01-26 17:05:38,610 :ERROR : pytestsDemo.test_logging :A major error has happened
+2023-01-26 17:05:38,610 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2023-01-26 17:07:48,913 :INFO : test_editprofile :Radhika
+2023-01-26 17:07:48,913 :INFO : test_editprofile :HG
+2023-01-26 17:07:48,922 :INFO : pytestsDemo.test_logging :Information
+2023-01-26 17:07:48,922 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2023-01-26 17:07:48,922 :ERROR : pytestsDemo.test_logging :A major error has happened
+2023-01-26 17:07:48,922 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2023-01-26 17:18:53,257 :INFO : test_editprofile :Radhika
+2023-01-26 17:18:53,257 :INFO : test_editprofile :HG
+2023-01-26 17:18:53,261 :INFO : pytestsDemo.test_logging :Information
+2023-01-26 17:18:53,261 :WARNING : pytestsDemo.test_logging :Something is in warning mode
+2023-01-26 17:18:53,261 :ERROR : pytestsDemo.test_logging :A major error has happened
+2023-01-26 17:18:53,261 :CRITICAL : pytestsDemo.test_logging :Critical issue
